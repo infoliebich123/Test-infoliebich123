@@ -1,0 +1,17 @@
+mein erster commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .htaccess
+#	new file:   admin.py
+#	new file:   adminloesung2.py
+#	new file:   login_redaktion.html
+#	new file:   news.html
+#	new file:   redaktion.db
+#	new file:   redaktion.py
+#	new file:   tmp.txt
+#

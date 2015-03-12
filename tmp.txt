@@ -1,0 +1,12 @@
+__init__: Verfallsdatum:1424252852.928882
+id_ok: Name: simon, Passwort:simon
+id_ok: redaktion.db
+id_ok: Mit Datenbank verbunden.
+publiziere: Titel: Was ist der Sinn des Lebens?
+publiziere: Text: Figugegl - Schlaf isch guet und git e gueti Luune
+publiziere: Gespeichert: Was ist der Sinn des Lebens?
+aktualisiere_news: Veröffentlichter Text:<h3>Hallo</h3>
+<h4>von Michael</h4>
+<p>Yeah geht endlich</p><h3>Was ist der Sinn des Lebens?</h3>
+<h4>von simon</h4>
+<p>Figugegl - Schlaf isch guet und git e gueti Luune</p>

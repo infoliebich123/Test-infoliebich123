@@ -1,0 +1,5 @@
+# Damit allgemein CGIs ausgeführt werden
+Options +ExecCGI
+
+# Dateien mit der Endung ".py" sind CGI-Skripte
+AddHandler cgi-script .py
